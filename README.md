@@ -1,0 +1,1 @@
+Basic project with vue frontend and django rest framework for refreshing and testing methods 
